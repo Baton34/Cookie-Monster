@@ -1,0 +1,17 @@
+pref("extensions.cookiemonster.firstRunDone", false);
+pref("extensions.cookiemonster.secondlevelurl", true);
+pref("extensions.cookiemonster.bothhttpandhttps", false);
+pref("extensions.cookiemonster.easypeasymode", false);
+pref("extensions.cookiemonster.reloadonpermissionchange", true);
+pref("extensions.cookiemonster.enablecontextmenu", false);
+pref("extensions.cookiemonster.enablekeyboardshortcut", true);
+pref("extensions.cookiemonster.enabledeletetempontabs", false);
+pref("extensions.cookiemonster.enableglobalcookieoverride", false);
+pref("extensions.cookiemonster.deletecookiesondeny", false);
+pref("extensions.cookiemonster.tempcookie", "");
+pref("extensions.cookiemonster.overrideglobal", "");
+pref("extensions.cookiemonster.disabledeletecookieconfirm", false);
+pref("extensions.cookiemonster.originaldefaulticon", false);
+pref("extensions.cookiemonster.iconset", "0");
+pref("extensions.cookiemonster.displaydefaultsetting", false);
+pref("extensions.cookiemonster.displaytooltip", true);
